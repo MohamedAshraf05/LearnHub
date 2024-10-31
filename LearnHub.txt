@@ -1,0 +1,12 @@
+LearnHub requirements
+
+1. DONE Home view for introducing the site 
+2. DONE Contact us view for letting the visitors to contact the adminstrators
+3. DONE Admissions view to let the user to apply in your academy 
+4. DONE courses that the academy introduce
+5. DONE About us view for more details about the academy and the site 
+6. Blog view for the latest news and updates of the academy
+7. Login and Register view for the users to login and register in the site
+8. Admin dashboard for the admin to manage the site and the users
+9. Admin can add, edit and delete the courses, admissions, and the users
+10. Admin can view the details of the users and the admissions
